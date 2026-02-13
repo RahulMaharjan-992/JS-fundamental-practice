@@ -1,2 +1,2 @@
-# JS-fundamental-practice
+# JS-fundamentals-practice
 javascript fundamental practice 
