@@ -77,7 +77,6 @@ let spaceship = {
     }
 }; 
 
-// Write your code below
 for (let crewMem in spaceship.crew)
 {
   console.log(`${crewMem}: ${spaceship.crew[crewMem].name},\nrole: ${spaceship.crew[crewMem].degree}\n`);
