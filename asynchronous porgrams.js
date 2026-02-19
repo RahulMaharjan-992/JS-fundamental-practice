@@ -29,7 +29,6 @@ withAsync(100)
 
 //await operator
 async function announceDinner() {
-  // Write your code below:
   let meal = await brainstormDinner();
   console.log(`I'm going to make ${meal} for dinner.`);
 }
