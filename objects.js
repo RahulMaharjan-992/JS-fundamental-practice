@@ -88,8 +88,6 @@ const inventory = {
   pants: 1088,
   bags: 1344
 };
-
-// Write your code below:
 function myExecutor(resolve, reject) {
   if (inventory.sunglasses > 0){
   resolve('Sunglasses order processed.');}
